@@ -1,0 +1,13 @@
+def ot():
+    print("Your name: ",a)
+    print("Your age: ",b)
+    print("Your gender: ",c)
+    print("Date: ",d)
+    print("Number of seats you have booked: ",n)
+    print("Seat numbers: ",m)
+    print("Movie: ",movie)
+    print("Timmings: ",t)
+    print("Screen: ",screen)
+    print("The total amount to be paid: ",amount)
+    print("Important note:")
+    print("Payment should be done on the day of the movie")
